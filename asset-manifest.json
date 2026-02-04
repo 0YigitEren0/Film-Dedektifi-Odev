@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Film-Dedektifi-Odev/static/css/main.c98190da.css",
+    "main.js": "/Film-Dedektifi-Odev/static/js/main.5d4c78c1.js",
+    "static/js/453.d28ba262.chunk.js": "/Film-Dedektifi-Odev/static/js/453.d28ba262.chunk.js",
+    "index.html": "/Film-Dedektifi-Odev/index.html",
+    "main.c98190da.css.map": "/Film-Dedektifi-Odev/static/css/main.c98190da.css.map",
+    "main.5d4c78c1.js.map": "/Film-Dedektifi-Odev/static/js/main.5d4c78c1.js.map",
+    "453.d28ba262.chunk.js.map": "/Film-Dedektifi-Odev/static/js/453.d28ba262.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c98190da.css",
+    "static/js/main.5d4c78c1.js"
+  ]
+}
