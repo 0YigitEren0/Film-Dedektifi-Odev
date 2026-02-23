@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Film-Dedektifi-Odev/static/css/main.02d26c03.css",
-    "main.js": "/Film-Dedektifi-Odev/static/js/main.f3420cd0.js",
+    "main.css": "/Film-Dedektifi-Odev/static/css/main.2e08c7c6.css",
+    "main.js": "/Film-Dedektifi-Odev/static/js/main.60b16bb2.js",
     "static/js/453.d28ba262.chunk.js": "/Film-Dedektifi-Odev/static/js/453.d28ba262.chunk.js",
     "index.html": "/Film-Dedektifi-Odev/index.html",
-    "main.02d26c03.css.map": "/Film-Dedektifi-Odev/static/css/main.02d26c03.css.map",
-    "main.f3420cd0.js.map": "/Film-Dedektifi-Odev/static/js/main.f3420cd0.js.map",
+    "main.2e08c7c6.css.map": "/Film-Dedektifi-Odev/static/css/main.2e08c7c6.css.map",
+    "main.60b16bb2.js.map": "/Film-Dedektifi-Odev/static/js/main.60b16bb2.js.map",
     "453.d28ba262.chunk.js.map": "/Film-Dedektifi-Odev/static/js/453.d28ba262.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02d26c03.css",
-    "static/js/main.f3420cd0.js"
+    "static/css/main.2e08c7c6.css",
+    "static/js/main.60b16bb2.js"
   ]
 }
